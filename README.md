@@ -46,7 +46,3 @@ This repo contains tools to help build, automate and maintain loging vocabulary 
 1. Use the AppleScript to log words regularly
 2. Periodically run the Python script to process and enrich your vocabulary list
 
-<<<<<<< HEAD
-This AppleScript logs a selected word from your clipboard with the date into a CSV file, First put the the script into the Automator app and export it as an app then assign a keyboard shortcut to the created app. The plan is to later use the cvs file to do flashcards and add a defntion column 
-=======
->>>>>>> 776bd43 (adding files)
