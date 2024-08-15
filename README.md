@@ -43,6 +43,6 @@ This repo contains tools to help build, automate and maintain loging vocabulary 
 
 ## Usage
 
-1. Use the AppleScript to log words regularly
+1. Use the AppleScript to log words regularly, It works by getting the last word from your clipboard, start by making an automator application then put the script inside the create app and export it finally assign a keyboard shortcut to the app so it los seamlessly 
 2. Periodically run the Python script to process and enrich your vocabulary list
 
